@@ -1,0 +1,269 @@
+Pregunta,respuesta
+¿Qué es un agente inteligente en el contexto de la inteligencia artificial y cuáles son sus características principales?,No hay suficiente información en los documentos proporcionados para responder a esta pregunta.
+¿Cuáles son las principales categorías de aprendizaje automático y en qué se diferencian?,"Según el fragmento 3, los métodos de aprendizaje automático se pueden clasificar en tres categorías según el tipo de técnica utilizada. Sin embargo, el fragmento no proporciona información detallada sobre las categorías específicas.
+
+En el fragmento 3, se menciona que las técnicas estadísticas tradicionales, como la regresión lineal y logística, tienen un objetivo diferente al de los métodos de aprendizaje automático. Mientras que las técnicas estadísticas tradicionales buscan hacer inferencias sobre las relaciones entre variables, los métodos de aprendizaje automático buscan comprender las relaciones entre variables (Alvarez Vega, Quiros Mora, & Cortes Badilla, 2020).
+
+No hay suficiente información en los documentos proporcionados para responder a la pregunta sobre las principales categorías de aprendizaje automático y en qué se diferencian."
+"¿Para qué sirve el test de Turing y cómo se desarrolla conceptualmente el ""juego de imitación""?","El test de Turing es una prueba propuesta por Alan Turing en su artículo de 1950 ""Computing Machinery and Intelligence"" (Fragmento 2) para determinar si una máquina es capaz de pensar. La prueba consiste en un ""juego de imitación"" entre un ser humano y una máquina, donde el objetivo es determinar quién es la máquina y quién es el ser humano.
+
+Según Fragmento 2, el ""juego de imitación"" es una forma de sustituir la pregunta ""Pueden pensar las máquinas?"" (Saygin et al., 2000). No hay más información en el contexto sobre cómo se desarrolla conceptualmente el ""juego de imitación"".
+
+No hay suficiente información en los documentos proporcionados para responder a la pregunta sobre para qué sirve el test de Turing."
+¿Cuáles son los principales desafíos éticos y legales en la implementación del aprendizaje automático en medicina?,"Los principales desafíos éticos en la implementación del aprendizaje automático en medicina se refieren a la confianza ciega que pueden tener los médicos y futuros usuarios de sistemas de aprendizaje automático en las decisiones de los modelos. Se teme que estos modelos puedan ser considerados como herramientas de toma de decisiones, en lugar de ser utilizados como una herramienta de apoyo para los profesionales de la salud.
+
+En cuanto a los desafíos legales, se menciona que la FDA ha comenzado un programa piloto de precertificación para evaluar software médico, basándose en cinco criterios de excelencia. Sin embargo, no se proporcionan detalles específicos sobre los desafíos legales en la implementación del aprendizaje automático en medicina.
+
+Es importante destacar que los fragmentos proporcionados no mencionan explícitamente los principales desafíos éticos y legales en la implementación del aprendizaje automático en medicina. Sin embargo, se hace referencia a la necesidad de evaluar software médico y a la importancia de utilizar herramientas de aprendizaje automático como una herramienta de apoyo para los profesionales de la salud.
+
+(Documento origen: Alvarez Vega, M., Quiros Mora, L., & Cortes Badilla, M. V. (2020). Inteligencia artificial y aprendizaje automático en medicina. Revista Medica Sinergia, 5(8), e557..pdf)"
+¿Qué tipo de retroalimentación académica puede proporcionar ChatGPT según el estudio presentado y cuáles son sus limitaciones?,"Según el estudio presentado, ChatGPT puede proporcionar retroalimentación académica en tareas asociadas a la retroalimentación académica, específicamente en relación con el uso de ChatGPT para obtener retroalimentación académica (Fragmento 3, Página 4).
+
+No hay suficiente información en los documentos proporcionados para determinar qué tipo de retroalimentación académica puede proporcionar ChatGPT de manera específica. Sin embargo, se menciona que se evaluó la relación entre el uso de ChatGPT como agente inteligente y la percepción de efectividad de la retroalimentación académica (Fragmento 2, Página 3).
+
+No se mencionan limitaciones específicas del uso de ChatGPT como agente de retroalimentación académica en los fragmentos proporcionados. Sin embargo, se menciona que es clave actualizar periodicamente los estudios sobre su uso e impacto educativo debido a la evolución constante de estas tecnologías (Fragmento 1, Página 9)."
+¿Cómo influye la frecuencia de uso de ChatGPT en la percepción de su efectividad educativa?,No hay suficiente información en los documentos proporcionados para responder a esta pregunta.
+¿Qué papel juega la inteligencia artificial en la reducción de la carga clínica y el acceso a sistemas de salud?,"La inteligencia artificial juega un papel importante en la reducción de la carga clínica y el acceso a sistemas de salud. Según se menciona en el Fragmento 2, la disponibilidad de información clínica almacenada electrónicamente se ha convertido en una herramienta importante en los sistemas de salud (11). Esto permite simplificar la atención médica, reducir costos y tiempo de diagnóstico (2, 15).
+
+Además, la inteligencia artificial puede ayudar a reducir la carga clínica mediante la automatización de tareas repetitivas y la mejora de la precisión en la predicción de pronósticos y diagnósticos, como se menciona en el Fragmento 1. Sin embargo, se destaca que el rendimiento de predicción continúa siendo bajo (21).
+
+No hay suficiente información en los documentos proporcionados para determinar con precisión el papel exacto de la inteligencia artificial en la reducción de la carga clínica y el acceso a sistemas de salud."
+¿Cuáles son algunas aplicaciones concretas del aprendizaje automático en el diagnóstico y tratamiento médico?,"Según los fragmentos proporcionados, el aprendizaje automático tiene varias aplicaciones en el diagnóstico y tratamiento médico. Una de ellas es la identificación de probables diagnósticos mediante la integración de datos disponibles electrónicamente de cada paciente (Fragmento 2).
+
+Además, se menciona que los sistemas algoritmicos de machine learning podrían ser de ayuda para el personal médico en escenarios donde el diagnóstico no esté claro, o simplemente para agilizar sistemas de salud (Fragmento 3).
+
+También se destaca la importancia de una técnica de aprendizaje automático capaz de tamizar pacientes, estadificar pacientes por riesgo y asistir a los médicos en la toma de decisiones, lo que sería de gran ayuda para el día a día del médico (Fragmento 3).
+
+En cuanto a la predicción de pronósticos y la provisión de diagnósticos, se menciona que el aprendizaje automático puede ser utilizado para actividades médicas que requieran trabajo repetitivo (Fragmento 1).
+
+No hay suficiente información en los documentos proporcionados para responder a si hay otras aplicaciones concretas del aprendizaje automático en el diagnóstico y tratamiento médico."
+"¿Cómo se define la inteligencia artificial simbólica y la conexionista, y cuáles son sus diferencias esenciales?",No hay suficiente información en los documentos proporcionados para responder a esta pregunta.
+¿Qué limitaciones presenta la inteligencia artificial actual según el análisis histórico y teórico?,No hay suficiente información en los documentos proporcionados para responder a esta pregunta.
+"¿Cómo afectan el aprendizaje supervisado, no supervisado y por refuerzo al desarrollo de modelos predictivos en medicina?","Según el contexto proporcionado, el aprendizaje supervisado, no supervisado y por refuerzo son categorías de aprendizaje automático que se pueden aplicar en medicina.
+
+El aprendizaje supervisado se describe en el Fragmento 1 como un proceso en el que se proporcionan a la red salidas correctas, ya sea mediante la entrega de la combinación de entrada y salida deseada o la evaluación manual del rendimiento de la red. Esto sugiere que el aprendizaje supervisado puede ser utilizado para desarrollar modelos predictivos en medicina, ya que permite la corrección y ajuste del modelo en función de las salidas correctas.
+
+El Fragmento 2 menciona que el entrenamiento puede ser supervisado o no supervisado, pero no proporciona información específica sobre cómo afecta el aprendizaje no supervisado al desarrollo de modelos predictivos en medicina.
+
+El Fragmento 3 menciona que el aprendizaje automático se puede clasificar en tres categorías según el tipo de técnica de aprendizaje utilizada: supervisado, no supervisado y aprendizaje por refuerzo. Sin embargo, no proporciona información específica sobre cómo afectan estos tipos de aprendizaje al desarrollo de modelos predictivos en medicina.
+
+En resumen, el Fragmento 1 sugiere que el aprendizaje supervisado puede ser utilizado para desarrollar modelos predictivos en medicina, pero no hay suficiente información en los documentos proporcionados para responder a la pregunta de cómo afectan el aprendizaje no supervisado y por refuerzo al desarrollo de modelos predictivos en medicina.
+
+Referencias:
+(Fragmento 1 - Fuente: /app/data/Martín Ortiz Domínguez (2025). Redes neuronales artificiales. Ingenio y Conciencia, 12(23), 38-44..pdf, Página: 3)
+(Fragmento 2 - Fuente: /app/data/Martín Ortiz Domínguez (2025). Redes neuronales artificiales. Ingenio y Conciencia, 12(23), 38-44..pdf, Página: 1)
+(Fragmento 3 - Fuente: /app/data/Alvarez Vega, M., Quiros Mora, L., & Cortes Badilla, M. V. (2020). Inteligencia artificial y aprendizaje automático en medicina. Revista Medica Sinergia, 5(8), e557..pdf, Página: 2)"
+¿Cuáles son los riesgos de una sobredependencia tecnológica en el uso de agentes inteligentes en la educación?,No hay suficiente información en los documentos proporcionados para responder a esta pregunta.
+¿Qué importancia tiene la explicación pedagógica y la ética en la implementación de ChatGPT en la educación universitaria?,"La explicación pedagógica y la ética son fundamentales en la implementación de ChatGPT en la educación universitaria. Según el documento ""inteligencia artificial como herramienta en el aprendizaje autonomo de los estudiantes de educacion superior"" (Milagros Rocio, Menacho Angeles, 2024), es esencial evaluar la implementación de ChatGPT de manera ética y revisar continuamente su impacto en el desarrollo estudiantil (Sanchez, 2023).
+
+Además, la interacción sincrona facilitada por IA permite una presencia virtual que fomenta la interacción en tiempo real, lo que es beneficioso para el aprendizaje (Fragmento 2). Sin embargo, es importante tener en cuenta que la versión gratuita de ChatGPT resulta más limitada en sus posibilidades de integración en comparación con la versión paga dirigida a organizaciones (Forero-Corba y Negre Bennasar, 2023).
+
+En resumen, la explicación pedagógica y la ética son clave para garantizar que la implementación de ChatGPT en la educación universitaria sea efectiva y beneficiosa para los estudiantes.
+
+Referencias: 
+- Milagros Rocio, Menacho Angeles (2024). inteligencia artificial como herramienta en el aprendizaje autonomo de los estudiantes de educacion superior..pdf
+- Forero-Corba y Negre Bennasar (2023)
+- Sanchez (2023)"
+¿Qué pruebas y análisis estadísticos se utilizaron para evaluar la percepción y el uso de ChatGPT en el estudio presentado?,No hay suficiente información en los documentos proporcionados para responder a esta pregunta.
+"¿Cómo aborda el documento ""Computing Machinery and Intelligence"" de Alan Turing la pregunta sobre la capacidad de las máquinas para pensar?","Según el Fragmento 1, en el artículo de 1950 ""Computing Machinery and Intelligence"" de Alan Turing, se propuso la prueba de Turing para sustituir la pregunta ""Pueden pensar las máquinas?"" (Saygin et al., 2000). Esto implica que el documento aborda la capacidad de las máquinas para pensar a través de la prueba de Turing.
+
+No hay suficiente información en los documentos proporcionados para saber cómo aborda específicamente el documento ""Computing Machinery and Intelligence"" de Alan Turing la pregunta sobre la capacidad de las máquinas para pensar, más allá de la mención a la prueba de Turing. Sin embargo, se puede inferir que la prueba de Turing es una forma de abordar esta pregunta."
+¿Qué diferencia hay entre el preentrenamiento y el ajuste fino (fine-tuning) en los LLMs?,"Según el contexto proporcionado, el ajuste fino o fine-tuning es el proceso de adaptación de un LLM pre-entrenado a una nueva tarea o un nuevo conjunto de datos, realizando un entrenamiento posterior (Fragmento 1 y Fragmento 3).
+
+La principal diferencia entre el pre-entrenamiento y el ajuste fino se menciona en el Fragmento 1, donde se indica que el pre-entrenamiento utiliza una gran cantidad de datos y tarda mucho tiempo, mientras que el fine-tuning suele ser más rápido y utiliza menos datos.
+
+En resumen, la principal diferencia entre el pre-entrenamiento y el ajuste fino es el tiempo y la cantidad de datos necesarios para realizar el entrenamiento."
+¿Para qué tareas de calidad del dato se usan habitualmente los LLMs en las organizaciones?,"Según el contexto proporcionado, no se menciona explícitamente las tareas de calidad del dato para las cuales se usan habitualmente los LLMs en las organizaciones. Sin embargo, se hace referencia a que los LLMs se han estudiado para aplicar en tareas de calidad del dato (Fragmento 2, Herrando Moraira, A. (2024). Large Language Models (LLMs) para calidad y estandarización de datos..pdf, Página: 244).
+
+Además, se menciona que se ha diseñado una metodología de evaluación para verificar la eficacia de los LLMs en tareas de calidad del dato (Fragmento 1, Herrando Moraira, A. (2024). Large Language Models (LLMs) para calidad y estandarización de datos..pdf, Página: 175). Esto sugiere que los LLMs se están investigando para aplicar en diversas tareas relacionadas con la calidad del dato, pero no se proporciona información específica sobre las tareas en las que se usan habitualmente.
+
+No hay suficiente información en los documentos proporcionados para responder a esta pregunta de manera más específica."
+¿Cuáles son las principales arquitecturas en las que se categorizan los LLMs modernos?,No hay suficiente información en los documentos proporcionados para responder a esta pregunta.
+¿Cómo se define la “ventana de contexto” de un modelo de lenguaje y por qué es relevante?,"La ""ventana de contexto"" de un modelo de lenguaje se define como el límite máximo de cada consulta que se le puede presentar a un modelo de lenguaje (LLM). Esto significa que el modelo tiene una limitación en cuanto a la cantidad de información que puede procesar en una sola consulta.
+
+Esta limitación puede afectar al procesamiento de textos largos y puede hacer que el modelo pierda información relevante. (Fragmento 1 - Fuente: Herrando Moraira, A. (2024). Large Language Models (LLMs) para calidad y estandarización de datos2..pdf, Página: 17)
+
+No hay suficiente información en los documentos proporcionados para saber por qué la ""ventana de contexto"" es relevante."
+¿Qué función cumple el RLHF (Reinforcement Learning from Human Feedback) en modelos como ChatGPT?,"El RLHF (Reinforcement Learning from Human Feedback) es una técnica utilizada en modelos como InstructGPT, una variación del modelo GPT-3. Según se explica en los fragmentos proporcionados, esta técnica se utiliza para mejorar la ejecución de tareas, reducir respuestas no deseadas y personalizar conversaciones con humanos.
+
+En concreto, se menciona que el modelo InstructGPT introdujo el uso de la técnica de aprendizaje reforzado a partir de retroalimentación humana (RLHF) para remediar las limitaciones del modelo GPT-3, como la incapacidad para seguir instrucciones y responder a solicitudes de usuarios humanos de manera efectiva y alineada con sus expectativas. (Fragmento 3 - Fuente: Herrando Moraira, A. (2024). Large Language Models (LLMs) para calidad y estandarización de datos2..pdf, Página: 9)
+
+No hay suficiente información en los documentos proporcionados para determinar con precisión qué función cumple el RLHF en modelos como ChatGPT, ya que solo se menciona a InstructGPT como modelo que utiliza esta técnica. Sin embargo, se puede inferir que la técnica de RLHF se utiliza para mejorar la interacción con humanos y la capacidad del modelo para seguir instrucciones y responder de manera efectiva."
+¿Cuál es el objetivo principal de la ingeniería de prompts?,"El objetivo principal de la ingeniería de prompts es optimizar las instrucciones que se proporcionan a los modelos de lenguaje grande (LLMs) para mejorar su rendimiento y calidad en tareas específicas. Según los fragmentos proporcionados, se menciona que los prompts deben ser concisos, estar alineados con la tarea y tener suficiente contexto.
+
+Además, se han aplicado distintas técnicas, estrategias y buenas prácticas para realizar los prompts de este trabajo. Esto sugiere que la ingeniería de prompts busca encontrar formas de mejorar la eficacia de los prompts para que los modelos de lenguaje puedan realizar tareas con mayor precisión y eficiencia.
+
+Es importante destacar que la ingeniería de prompts se relaciona con la calidad y estandarización de datos, como se menciona en los fragmentos proporcionados. Esto implica que la optimización de los prompts es un aspecto crucial para mejorar la calidad de los datos generados por los modelos de lenguaje.
+
+Referencias: Herrando Moraira, A. (2024). Large Language Models (LLMs) para calidad y estandarización de datos. (Página: 244), Herrando Moraira, A. (2024). Large Language Models (LLMs) para calidad y estandarización de datos2. (Página: 46, 20)"
+¿Por qué es importante la reducción de información personal identificable (PII) en los conjuntos de datos de entrenamiento?,"La reducción de información personal identificable (PII) en los conjuntos de datos de entrenamiento es importante porque se elimina la información personal identificable (Personal Identifiable Information (PII)) (Fragmento 2, Herrando Moraira, A. (2024). Large Language Models (LLMs) para calidad y estandarización de datos2.pdf, Página: 11).
+
+Además, se menciona que los modelos pueden aprender datos personales y posteriormente dar detalles privados, lo que plantea preocupaciones sobre la privacidad (Fragmento 3, Herrando Moraira, A. (2024). Large Language Models (LLMs) para calidad y estandarización de datos.pdf, Página: 89). Por lo tanto, la reducción de PII es una solución utilizada para este problema.
+
+En resumen, la reducción de PII es importante para eliminar la información personal identificable y evitar preocupaciones sobre la privacidad en los conjuntos de datos de entrenamiento."
+¿Cuáles son los principales retos éticos relacionados con el uso de LLMs en el tratamiento de datos?,No hay suficiente información en los documentos proporcionados para responder a esta pregunta.
+¿Qué tipo de técnicas se recomiendan para mejorar la calidad de un prompt?,"Según los fragmentos proporcionados, se recomiendan varias técnicas para mejorar la calidad de un prompt. En primer lugar, se menciona que los prompts deben ser concisos, estar alineados con la tarea y tener suficiente contexto (Fragmento 1, Herrando Moraira, A. (2024). Large Language Models (LLMs) para calidad y estandarización de datos..pdf, Página: 244).
+
+Además, se han aplicado distintas técnicas, estrategias y buenas prácticas para realizar los prompts de este trabajo (Fragmento 1, Herrando Moraira, A. (2024). Large Language Models (LLMs) para calidad y estandarización de datos..pdf, Página: 244). También se menciona que se han aplicado distintas técnicas, estrategias y buenas prácticas para realizar los prompts de este trabajo (Fragmento 2, Herrando Moraira, A. (2024). Large Language Models (LLMs) para calidad y estandarización de datos2..pdf, Página: 46).
+
+En cuanto a las técnicas específicas, se menciona que se pueden incluir ejemplos dentro del prompt para demostrar el formato deseado de la respuesta, lo que permite al modelo realizar aprendizaje en contexto (ICL) y realizar la tarea con mayor calidad (Fragmento 3, Herrando Moraira, A. (2024). Large Language Models (LLMs) para calidad y estandarización de datos2..pdf, Página: 18). También se recomienda evitar sesgos en los prompts, utilizando un lenguaje neutro y siendo consciente de las posibles implicaciones éticas y sociales (Fragmento 3, Herrando Moraira, A. (2024). Large Language Models (LLMs) para calidad y estandarización de datos2..pdf, Página: 18).
+
+En resumen, las técnicas recomendadas para mejorar la calidad de un prompt son:
+
+* Ser concisos, alineados con la tarea y tener suficiente contexto.
+* Incluir ejemplos dentro del prompt para demostrar el formato deseado de la respuesta.
+* Evitar sesgos en los prompts, utilizando un lenguaje neutro y siendo consciente de las posibles implicaciones éticas y sociales.
+
+Referencias:
+- Herrando Moraira, A. (2024). Large Language Models (LLMs) para calidad y estandarización de datos..pdf
+- Herrando Moraira, A. (2024). Large Language Models (LLMs) para calidad y estandarización de datos2..pdf"
+¿En qué consiste el método de imputación de datos y qué papel pueden jugar los LLMs en él?,No hay suficiente información en los documentos proporcionados para responder a esta pregunta.
+¿Por qué la “explicabilidad” es un desafío en los grandes modelos de lenguaje?,No hay suficiente información en los documentos proporcionados para responder a esta pregunta.
+¿De qué forma se determina la calidad de los datos y cuáles son sus dimensiones básicas?,"La calidad de los datos se determina mediante las dimensiones de la calidad del dato. Según el contexto, estas dimensiones son características con las cuales se mide la calidad del dato. 
+
+Según UK Government Data Quality Hub (2021), las dimensiones de la calidad del dato son: 
+
+Precisión: Los datos representan la realidad con exactitud. Por ejemplo, datos como nombres o direcciones que existen en la realidad. (Referencia: Herrando Moraira, A. (2024). Large Language Models (LLMs) para calidad y estandarización de datos..pdf, Página: 107)"
+¿Qué diferencia hay entre un benchmark basado en pruebas humanas y uno automatizado para evaluar LLMs?,No hay suficiente información en los documentos proporcionados para responder a esta pregunta.
+¿Qué impacto puede tener la mala calidad del dato en el análisis y toma de decisiones?,"La mala calidad del dato puede tener un impacto significativo en el análisis y la toma de decisiones. Según el Fragmento 2, la calidad del dato es una medida de cómo los datos son aptos y están disponibles en el momento adecuado. Sin embargo, la famosa revolución del dato tiene un problema principal: la calidad del dato (Herrando Moraira, 2024, Página: 106).
+
+De acuerdo con el Fragmento 1, para dar determinados servicios o tomar decisiones de negocio objetivas se requiere hacer uso de estos datos. Pero al utilizarlos, se encuentra que no están adecuados para ser utilizados debido a su mala calidad. Esto sugiere que la mala calidad del dato puede impedir que se tomen decisiones informadas y objetivas.
+
+No hay suficiente información en los documentos proporcionados para determinar el impacto específico de la mala calidad del dato en el análisis y la toma de decisiones. Sin embargo, se puede inferir que la mala calidad del dato puede llevar a resultados incorrectos o imprecisos en el análisis, lo que a su vez puede afectar la toma de decisiones."
+¿Cuáles son dos limitaciones principales al implementar LLMs para tareas de calidad del dato en entornos reales?,"Según el contexto proporcionado, hay varias limitaciones al implementar LLMs para tareas de calidad del dato en entornos reales. 
+
+Una de las limitaciones principales es la falta de fiabilidad, ya que se ha encontrado que la implementación de un LLM puede resultar en un sistema no determinista que cometa errores esporádicos (Fragmento 2, Herrando Moraira, A. (2024). Large Language Models (LLMs) para calidad y estandarización de datos2..pdf, Página: 25).
+
+Otra limitación importante es el coste computacional, que puede llegar a ser muy elevado dependiendo de la tarea de calidad a realizar y el volumen de datos que hay que tratar, lo que puede acabar trayendo problemas de escalabilidad a largo plazo (Fragmento 3, Herrando Moraira, A. (2024). Large Language Models (LLMs) para calidad y estandarización de datos2..pdf, Página: 25).
+
+Además, se menciona que para datos privados o de un dominio muy específico también pueden surgir limitaciones de efectividad (Fragmento 2, Herrando Moraira, A. (2024). Large Language Models (LLMs) para calidad y estandarización de datos2..pdf, Página: 25)."
+¿Cómo define la Unión Europea a un “sistema de inteligencia artificial” en el contexto regulatorio?,No hay suficiente información en los documentos proporcionados para responder a esta pregunta.
+¿Qué papel juega la explicabilidad en la regulación y aceptación social de los sistemas de IA?,No hay suficiente información en los documentos proporcionados para responder a esta pregunta.
+¿Cuál es la diferencia entre IA estrecha (débil) e IA fuerte según la literatura jurídica?,"No hay suficiente información en los documentos proporcionados para responder a esta pregunta.
+
+Los fragmentos proporcionados no mencionan explícitamente la diferencia entre IA estrecha (débil) e IA fuerte según la literatura jurídica. Los temas abordados en los fragmentos incluyen la influencia de la inteligencia artificial en la calidad de la información y la integridad de diversos elementos, la regulación de la inteligencia artificial, su impacto en los derechos fundamentales y la educación superior. Sin embargo, no se proporciona información sobre la clasificación de la inteligencia artificial en estrecha (débil) e IA fuerte."
+¿Por qué la autonomía de los sistemas de IA puede suponer un reto legal y ético?,"La autonomía de los sistemas de IA puede suponer un reto legal y ético debido a su capacidad para tomar decisiones y actuar de manera autónoma, lo que puede llevar a consecuencias impredecibles y no trazables. Según se menciona en el Fragmento 2, el marco jurídico existente en la actualidad no es suficiente para permitir que las decisiones tomadas sobre algoritmos sean trazables o explicables.
+
+Además, la autonomía de los sistemas de IA puede llevar a que se produzcan situaciones en las que la aplicación de la ley sea imposible o difícil de aplicar, como se menciona en el Fragmento 3. La característica fundamental de las leyes es su aplicabilidad generalizada, pero la autonomía de los sistemas de IA puede llevar a que se produzcan situaciones en las que la ley no sea aplicable de manera generalizada.
+
+En resumen, la autonomía de los sistemas de IA puede suponer un reto legal y ético debido a su capacidad para tomar decisiones y actuar de manera autónoma, lo que puede llevar a consecuencias impredecibles y no trazables, y a situaciones en las que la aplicación de la ley sea imposible o difícil de aplicar. 
+
+Referencia: (Perez-Ugena, 2024)"
+¿Qué derechos fundamentales pueden verse afectados por el uso de inteligencia artificial en procesos judiciales?,"Según el contexto proporcionado, el uso de inteligencia artificial en procesos judiciales puede verse relacionado con el derecho a la tutela judicial efectiva. Esto se menciona en el Fragmento 1 de la fuente ""Perez-Ugena, M. (2024). La inteligencia artificial definición, regulación y riesgos para los derechos fundamentales. Estudios de Deusto, Revista de Derecho Publico, 721, 307-337..pdf, Página: 20"".
+
+Además, se menciona que el control humano sobre la inteligencia artificial es necesario para garantizar el respeto a los principios y garantías procesales, así como a los derechos y libertades de las personas. Esto se menciona en el Fragmento 3 de la misma fuente.
+
+En cuanto a los derechos fundamentales que pueden verse afectados, no se menciona explícitamente en el contexto, pero se hace referencia a la necesidad de establecer criterios de calidad, seguridad y ética para la inteligencia artificial para asegurar su fiabilidad, precisión y equidad. Esto sugiere que el uso de inteligencia artificial en procesos judiciales puede tener implicaciones en varios derechos fundamentales, pero no se especifican en el contexto proporcionado.
+
+Referencia: ""Perez-Ugena, M. (2024). La inteligencia artificial definición, regulación y riesgos para los derechos fundamentales. Estudios de Deusto, Revista de Derecho Publico, 721, 307-337..pdf"""
+¿Cuáles son las cuatro categorías de riesgo para sistemas de IA en la regulación europea?,No hay suficiente información en los documentos proporcionados para responder a esta pregunta.
+"¿Qué obligaciones de transparencia existen para los sistemas de IA generativa, según la regulación de la UE?",No hay suficiente información en los documentos proporcionados para responder a esta pregunta.
+¿Qué se entiende por “censura algorítmica” y cómo puede afectar la libertad de expresión?,"La censura algorítmica se refiere al fenómeno por el cual los sistemas de inteligencia artificial (IA) limitan o manipulan la información que se difunde o se accede en el entorno digital, afectando así a la libertad de expresión y de información. (Fragmento 3 - Fuente: /app/data/Perez-Ugena, M. (2024). La inteligencia artificial definición, regulación y riesgos para los derechos fundamentales. Estudios de Deusto, Revista de Derecho Publico, 721, 307-337..pdf, Página: 19)
+
+Este fenómeno puede tener diversas causas y consecuencias, relacionadas con el diseño, el funcionamiento y el uso de los sistemas de IA. (Fragmento 3 - Fuente: /app/data/Perez-Ugena, M. (2024). La inteligencia artificial definición, regulación y riesgos para los derechos fundamentales. Estudios de Deusto, Revista de Derecho Publico, 721, 307-337..pdf, Página: 19)
+
+La censura algorítmica es especialmente preocupante porque puede afectar la libertad de expresión y de información, lo que se manifiesta a través de lo que se ha denominado censura algorítmica. (Fragmento 1 - Fuente: /app/data/Perez-Ugena, M. (2024). La inteligencia artificial definición, regulación y riesgos para los derechos fundamentales. Estudios de Deusto, Revista de Derecho Publico, 721, 307-337..pdf, Página: 19)
+
+En resumen, la censura algorítmica es un fenómeno que puede limitar o manipular la información en el entorno digital, afectando la libertad de expresión y de información."
+¿Cuáles son los principales riesgos que la IA representa para la privacidad y la protección de datos personales?,"Los principales riesgos que la IA representa para la privacidad y la protección de datos personales se mencionan en los fragmentos proporcionados. En primer lugar, se destaca que la IA puede aprender datos personales y posteriormente dar detalles privados, lo que plantea preocupaciones sobre la privacidad (Herrando Moraira, 2024, p. 89).
+
+Además, se menciona que el uso masivo de datos personales por parte de los sistemas de IA amenaza el derecho a la protección de la vida privada (Perez-Ugena, 2024, p. 21). Esto se debe a que la IA puede utilizar datos personales con el fin de evaluar aspectos personales, lo que implica la creación de perfiles y la valoración o juicio sobre un individuo (Perez-Ugena, 2024, p. 18).
+
+En cuanto a los riesgos específicos, se mencionan la posibilidad de sesgos, discriminaciones, desinformación y ciberataques (Perez-Ugena, 2024, p. 21). Por lo tanto, es importante destacar que la IA puede representar riesgos significativos para la privacidad y la protección de datos personales.
+
+Referencias:
+- Herrando Moraira, A. (2024). Large Language Models (LLMs) para calidad y estandarización de datos..pdf
+- Perez-Ugena, M. (2024). La inteligencia artificial definición, regulación y riesgos para los derechos fundamentales. Estudios de Deusto, Revista de Derecho Publico, 721, 307-337..pdf"
+¿Qué requisitos exige el RGPD frente a la toma de decisiones automatizadas mediante IA?,"Según el contexto proporcionado, el RGPD (Reglamento General de Protección de Datos) exige una especial limitación aplicable a los sistemas de IA y referida a la toma de decisiones automatizadas. Esto se menciona en varios fragmentos de texto.
+
+En primer lugar, se establece que las personas tienen el derecho de no ser sujetas a decisiones automatizadas que, basadas unicamente en el procesamiento de datos, puedan tener un impacto legal significativo en ellas o afectarlas de manera similar (Fragmento 1, Página 17).
+
+Además, se menciona que el RGPD prevé una especial limitación aplicable a los sistemas de IA y referida a la toma de decisiones (Fragmento 2, Página 17).
+
+En cuanto a los requisitos específicos, se establece que la determinación de si se configura una decisión automatizada o no, se hace depender de las circunstancias particulares involucradas en el proceso (Fragmento 3, Página 19).
+
+En resumen, el RGPD exige que las decisiones automatizadas mediante IA tengan en cuenta las circunstancias particulares involucradas en el proceso y no se basen únicamente en el procesamiento de datos."
+"¿Qué instrumentos internacionales recientes abordan la ética de la IA (por ejemplo, UNESCO, G7)?",No hay suficiente información en los documentos proporcionados para responder a esta pregunta.
+¿Qué supone el fenómeno de la desinformación para las democracias según la Unión Europea?,"Según el contexto proporcionado, la Unión Europea considera que la desinformación es uno de los mayores peligros para los países democráticos. Esto se desprende del Fragmento 2, donde se menciona que la Unión Europea está consciente de que la desinformación puede danar la estabilidad y las instituciones de los países democráticos.
+
+Además, se menciona que la Unión Europea está dedicando una gran cantidad de recursos para acabar con la desinformación que se difunde en las redes sociales en Internet y en determinados medios, a través de su programa de investigación e innovación Horizonte 2020 (Fragmento 2).
+
+En resumen, la desinformación supone un peligro significativo para las democracias según la Unión Europea, ya que puede afectar la estabilidad y las instituciones de los países democráticos. (Fragmento 1 y Fragmento 2)"
+¿Cómo puede el Big Data potenciar la detección y el combate a la desinformación?,"El Big Data puede potenciar la detección y el combate a la desinformación de varias maneras. Primero, se menciona que el Big Data es una tecnología que surge del uso de organizaciones e instituciones para contrarrestar la desinformación y el efecto posverdad (Fragmento 2). Esto sugiere que el Big Data puede ser utilizado para identificar y analizar patrones de desinformación en la red.
+
+Además, se menciona que el Big Data es una tecnología que permite capturar, gestionar y procesar conjuntos de datos que superan la capacidad del software habitual (Fragmento 1). Esto sugiere que el Big Data puede ser utilizado para analizar grandes cantidades de datos y detectar patrones de desinformación que podrían ser difíciles de identificar de otra manera.
+
+Finalmente, se menciona que el Big Data puede ser utilizado en conjunción con la inteligencia artificial para detectar y combatir la desinformación (Fragmento 3). Esto sugiere que el Big Data puede ser utilizado para proporcionar datos y patrones que la inteligencia artificial pueda analizar y utilizar para identificar y contrarrestar la desinformación.
+
+En resumen, el Big Data puede potenciar la detección y el combate a la desinformación mediante la identificación y análisis de patrones de desinformación en la red, la capacidad de analizar grandes cantidades de datos y la utilización de la inteligencia artificial para identificar y contrarrestar la desinformación.
+
+(Fragmento 1: Moreno Espinosa, P., Abdulsalam Alsarayreh, R. A., & Figuereo-Benitez, J. C. (2024). El Big Data y la inteligencia artificial como soluciones a la desinformacion. Doxa Comunicaci.pdf, Página: 4)
+(Fragmento 2: Moreno Espinosa, P., Abdulsalam Alsarayreh, R. A., & Figuereo-Benitez, J. C. (2024). El Big Data y la inteligencia artificial como soluciones a la desinformacion. Doxa Comunicaci.pdf, Página: 9)
+(Fragmento 3: Moreno Espinosa, P., Abdulsalam Alsarayreh, R. A., & Figuereo-Benitez, J. C. (2024). El Big Data y la inteligencia artificial como soluciones a la desinformacion. Doxa Comunicaci.pdf, Página: 4)"
+Nombra dos iniciativas o proyectos financiados por la UE para combatir la desinformación con IA.,No hay suficiente información en los documentos proporcionados para responder a esta pregunta.
+¿Por qué la alfabetización mediática es clave para abordar los desafíos que presenta la desinformación digital?,"La alfabetización mediática es clave para abordar los desafíos que presenta la desinformación digital porque se ha convertido en una habilidad esencial para el desarrollo humano en la era de la inteligencia artificial. Según Guzman-Brand y Gelvez-Garcia (2024), la alfabetización digital sirve como base para permitir un progreso inclusivo y equitativo en un mundo cada vez más digital.
+
+Además, el desarrollo de habilidades digitales se ha convertido en un requisito previo esencial para participar en la sociedad y la economía. Esto se debe a que la gestión pública y el avance hacia un gobierno digital más eficiente y transparente dependen en gran medida de la alfabetización digital. La Universidad de Caldas también busca crear condiciones habilitantes para la docencia, la investigación y la proyección en inteligencia artificial para el servicio de la sociedad, lo que sugiere que la alfabetización digital es fundamental para abordar los desafíos que presenta la desinformación digital.
+
+La alfabetización mediática también es importante para impulsar iniciativas de alfabetización mediática dirigidas a periodistas e informadores, jóvenes y la sociedad en su conjunto, como se menciona en el proyecto sobre la desinformación digital (Moreno Espinosa et al., 2024). Esto sugiere que la alfabetización mediática es clave para abordar los desafíos que presenta la desinformación digital y para promover un enfoque inclusivo y equitativo en la era de la inteligencia artificial.
+
+Referencias:
+Moreno Espinosa, P., Abdulsalam Alsarayreh, R. A., & Figuereo-Benitez, J. C. (2024). El Big Data y la inteligencia artificial como soluciones a la desinformacion. Doxa Comunicaci.pdf, Página: 10.
+Guzman-Brand, V. A., & Gelvez-Garcia, L. E. (2024). La ética y la responsabilidad en la implementación de la inteligencia artificial revisión sistemática. Revista Ingenieria, Mat.pdf, Página: 1.
+Universidad de Caldas – Consejo Superior. (2024). Acuerdo No. 33_ Por el cual se crea la Facultad de Inteligencia Artificial. Universidad de Caldas..pdf, Página: 6."
+¿Cómo influye el concepto de “caja negra” en la percepción y el uso de algoritmos de inteligencia artificial en el ámbito educativo?,No hay suficiente información en los documentos proporcionados para responder a esta pregunta.
+¿Cuáles son algunos riesgos o efectos negativos del solucionismo tecnológico cuando se implementa IA y Big Data en la educación?,"Según el contexto, algunos riesgos o efectos negativos del solucionismo tecnológico cuando se implementa IA y Big Data en la educación son:
+
+El uso de Big Data en la educación actual está poco contextualizado, lo que puede llevar a efectos colaterales negativos. (Fragmento 1)
+
+La identificación de niños y niñas en la educación a través de Big Data puede ir en contra de sus derechos digitales, lo que plantea una cuestión importante en este contexto. (Fragmento 1)
+
+No hay suficiente información en los documentos proporcionados para responder a esta pregunta sobre otros riesgos o efectos negativos del solucionismo tecnológico."
+¿Por qué los datos utilizados para entrenar algoritmos educativos pueden ser sesgados y qué impactos puede tener esto en los estudiantes?,"Según el Fragmento 3, los algoritmos educativos pueden influir directamente en las prácticas de los agentes educativos y determinar el aprendizaje del alumnado (Xavier Giro, Juana  Sancho (2022). Inteligencia Artificial en la  educacion Big data, cajas negras y solucionismo tecnologico.pdf, Página: 9).
+
+El desarrollo de los algoritmos educativos puede incurre en sesgos cognitivos y culturales (Xavier Giro, Juana  Sancho (2022). Inteligencia Artificial en la  educacion Big data, cajas negras y solucionismo tecnologico.pdf, Página: 9). Esto sugiere que los datos utilizados para entrenar a estos algoritmos pueden ser sesgados, ya que pueden reflejar prejuicios o estereotipos de la sociedad en la que se desarrollaron.
+
+El impacto de estos sesgos en los estudiantes puede ser significativo, ya que pueden influir en el aprendizaje y la formación de los mismos. Sin embargo, no se proporciona información específica sobre los posibles impactos en los estudiantes en los fragmentos dados."
+¿Qué papel juegan las plataformas de analítica del aprendizaje y minería de datos en la personalización de la enseñanza y el seguimiento de los estudiantes?,"Según el contexto proporcionado, las plataformas de analítica del aprendizaje y minería de datos juegan un papel importante en la personalización de la enseñanza y el seguimiento de los estudiantes. 
+
+En el Fragmento 2, se menciona que cada vez son más las voces que impulsan la introducción de modelos de análisis de aprendizaje y minería de datos en la educación (O'Neil, 2016). Esto sugiere que estas herramientas están siendo consideradas como una solución para mejorar la educación.
+
+En el Fragmento 3, se destaca que el análisis del aprendizaje con la ayuda de la Inteligencia Artificial y la minería de datos puede proporcionar conocimientos que ayuden a personalizar el aprendizaje para cada estudiante, lo que a su vez puede mejorar su atención y compromiso con su trayectoria escolar.
+
+En resumen, las plataformas de analítica del aprendizaje y minería de datos están siendo consideradas como una herramienta para mejorar la educación, personalizar la enseñanza y seguir el progreso de los estudiantes. (Xavier Giro, Juana  Sancho, 2022)"
+¿Qué desafíos éticos y sociales emergen del uso masivo de datos y algoritmos para la vigilancia y evaluación del alumnado en contextos educativos?,"Los desafíos éticos y sociales emergen del uso masivo de datos y algoritmos para la vigilancia y evaluación del alumnado en contextos educativos. Según Xavier Giro y Juana Sancho (2022), los algoritmos educativos pueden influir directamente en las prácticas de los agentes educativos y determinar el aprendizaje del alumnado (Fragmento 2, página 9).
+
+Además, estos algoritmos pueden desarrollar sesgos cognitivos y culturales, y cuestiones relacionadas con las capacidades de los usuarios (Fragmento 2, página 9). Esto puede tener efectos perversos, especialmente para los niños, niñas y jóvenes vulnerables, cuando se enfrentan a etiquetas como falta de motivación, déficit de atención, falta de concentración, problemas de salud, etc. (Fragmento 3).
+
+En este sentido, es importante educar a los estudiantes sobre lo que son los algoritmos y en el impacto que pueden tener en nuestras vidas (Fragmento 1, página 12). Los investigadores educativos deben encontrar el mejor uso de las tecnologías en la educación, maximizando sus efectos en beneficio de todos los individuos y grupos sociales, y evitando sus trampas (Fragmento 1, página 12).
+
+En resumen, el uso masivo de datos y algoritmos para la vigilancia y evaluación del alumnado en contextos educativos plantea desafíos éticos y sociales relacionados con la objetividad e imparcialidad de los algoritmos, la posibilidad de sesgos y la necesidad de educar a los estudiantes sobre el impacto de estos algoritmos en sus vidas.
+
+Referencias:
+- Xavier Giro, Juana Sancho (2022). Inteligencia Artificial en la educación Big data, cajas negras y solucionismo tecnológico."
+¿Cuáles son los objetivos principales del programa de Ingeniería en Inteligencia Artificial de la Universidad de Caldas?,No hay suficiente información en los documentos proporcionados para responder a esta pregunta.
+¿Qué titulaciones y modalidades ofrece el programa de Ingeniería en Inteligencia Artificial?,"No hay suficiente información en los documentos proporcionados para responder a esta pregunta.
+
+La pregunta solicita información sobre las titulaciones y modalidades ofrecidas por el programa de Ingeniería en Inteligencia Artificial, pero en los fragmentos proporcionados no se menciona explícitamente esta información. Los fragmentos se refieren a la creación del programa y la Facultad de Inteligencia Artificial e Ingenierías, pero no proporcionan detalles sobre las titulaciones y modalidades ofrecidas."
+"¿Cuáles son las áreas y componentes en los que se estructura el plan de estudios, y cuántos créditos comprende cada una?",No hay suficiente información en los documentos proporcionados para responder a esta pregunta.
+Menciona tres ejemplos de asignaturas obligatorias durante los primeros semestres del programa.,No hay suficiente información en los documentos proporcionados para responder a esta pregunta.
+¿Qué importancia tiene la ética en la formación de los ingenieros en inteligencia artificial en este programa?,No hay suficiente información en los documentos proporcionados para responder a esta pregunta.
+¿Cómo se integra la formación en Machine Learning y Deep Learning en el currículo de la carrera?,No hay suficiente información en los documentos proporcionados para responder a esta pregunta.
+¿Qué competencias y habilidades se espera que adquieran los estudiantes al finalizar el programa?,"Según el contexto proporcionado, se menciona que la inteligencia artificial (IA) se utiliza como herramienta en el aprendizaje autónomo de los estudiantes de educación superior. Se destaca la importancia del Machine Learning (ML) como una nueva forma de aprendizaje que promueve la colaboración y la autonomía del estudiante (Fragmento 1).
+
+Además, se menciona que las tecnologías de IA tienen el potencial de personalizar el aprendizaje, fomentar la colaboración y responder a las necesidades específicas de los estudiantes (Fragmento 2). Sin embargo, no se especifica explícitamente qué competencias y habilidades se espera que adquieran los estudiantes al finalizar el programa.
+
+No hay suficiente información en los documentos proporcionados para responder a esta pregunta."
+Enumera al menos tres campos laborales o perfiles profesionales para los egresados del programa.,No hay suficiente información en los documentos proporcionados para responder a esta pregunta.
+¿Qué papel cumplen los laboratorios y los semilleros de investigación dentro de la estructura académica?,No hay suficiente información en los documentos proporcionados para responder a esta pregunta.
+¿Cuál es la relación del programa con la transformación digital y las necesidades del mercado laboral actual en Colombia?,"La relación del programa con la transformación digital y las necesidades del mercado laboral actual en Colombia se menciona en varios fragmentos de los documentos proporcionados.
+
+Según el Fragmento 1, el objetivo de crear la primera Facultad de Inteligencia Artificial es ""dar creación a la primera Facultad de Inteligencia Artificial, la cual permitirá el acceso a programas de educación formal y no formal, procesos de investigación y servicios de extensión para la transformación digital y de generación de conocimiento local que permita a Colombia ser un actor relevante en la revolución digital"".
+
+Además, el Fragmento 2 menciona que la creación de esta facultad permitirá a la Universidad ofrecer programas académicos de pregrado, posgrado y educación continuada que ""permitirá fortalecer la cultura de la transformación digital en las regiones"".
+
+Por último, el Fragmento 3 destaca la importancia de la educación y la investigación en Inteligencia Artificial para ""capacitar a profesionales y generar conocimiento local que permita a Colombia ser un actor relevante en la revolución digital, asegurando un desarrollo sostenible y equitativo"".
+
+En resumen, la relación del programa con la transformación digital y las necesidades del mercado laboral actual en Colombia se centra en la creación de profesionales capacitados en Inteligencia Artificial que puedan contribuir a la transformación digital y al desarrollo sostenible de Colombia.
+
+(Documento origen: Universidad de Caldas – Consejo Superior. (2024). Acuerdo No. 33.pdf, Página: 1; Universidad de Caldas – Consejo Superior. (2024). Acuerdo No. 33_ Por el cual se crea la Facultad de Inteligencia Artificial. Universidad de Caldas..pdf, Página: 5)"

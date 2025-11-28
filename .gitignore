@@ -1,0 +1,153 @@
+# Entorno Virtual
+env/
+venv/
+ENV/
+.venv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Variables de Entorno
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.pydevproject
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Testing
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+htmlcov/
+
+# Logs
+logs/
+*.log
+consumo_logs.csv
+
+# Datos Sensibles
+*.csv
+!PreguntasGold.csv
+!preguntas_gold_con_respuestas.csv
+!preguntas_gold_con_respuestas_openai.csv
+!preguntas_gold_con_respuestas_groq.csv
+!preguntas_gold_con_respuestas_pelle.csv
+
+# Archivos de Datos
+data/
+vector_store/
+*.faiss
+file_registry.json
+
+# PDFs
+scripts/datasets/corpuspdfs/
+scripts/datasets/corpuspdfestructuradov2/
+
+# Docker
+.dockerignore
+.docker/
+
+# Sistema Operativo
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+
+# Bases de Datos
+*.db
+*.sqlite
+*.sqlite3
+
+# Archivos Temporales
+*.tmp
+*.temp
+*~
+.~*
+
+# Node (si se usa frontend)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Archivos de Configuración Locales
+.vscode/settings.json
+.vscode/launch.json
+
+# Directorios Grandes (cachés)
+.pytest_cache/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Dependencias Específicas del SO
+dist-info/
+
+# Archivos de Test Temporales
+test-results/
+test-output/
+
+# Configuración de IDEs específicos
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+.sublime-workspace
+
+# Archivos Comprimidos
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# Aplicaciones instaladas localmente
+*.exe
+*.msi
+
+# Directorios de Caché
+__pycache__
+.pytest_cache
+.mypy_cache
+.ruff_cache

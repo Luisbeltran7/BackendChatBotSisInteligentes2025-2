@@ -1,0 +1,16 @@
+fastapi>=0.95.0
+uvicorn[standard]>=0.22.0
+pydantic>=2.0.0
+# Añade aquí otras dependencias del proyecto según las necesites:
+# sqlalchemy>=1.4
+# python-jose[cryptography]>=3.3.0
+# passlib[bcrypt]>=1.7.4
+pymupdf
+python-multipart
+langchain 
+langchain-community 
+sentence-transformers 
+faiss-cpu
+groq
+chromadb
+openai
