@@ -29,8 +29,7 @@ from starlette.middleware.base import BaseHTTPMiddleware
 UPLOAD_DIR = Path("data")
 UPLOAD_DIR.mkdir(exist_ok=True)
 
-log_path = os.getenv("CSV_LOG_PATH","/consumo_logs.csv")
-LOG_FILE = Path("logs/consumo_logs.csv")
+
 
 
 rag_service = RAGService()
@@ -54,21 +53,7 @@ async def lifespan(app: FastAPI):
 
 app = FastAPI(title="Proyecto1V2", lifespan=lifespan)
 
-def log_consumption(session_id: str, query: str, tokens_used: int, cost_estimated: float, latency_sec: float):
-    if not LOG_FILE.exists():
-        with open(LOG_FILE, mode='w', newline='', encoding='utf-8') as f:
-            writer = csv.writer(f)
-            writer.writerow(["session_id", "timestamp", "query", "tokens_used", "cost_estimated", "latency_sec"])
-    with open(LOG_FILE, mode='a', newline='', encoding='utf-8') as f:
-        writer = csv.writer(f)
-        writer.writerow([
-            session_id,
-            datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
-            query,
-            tokens_used,
-            cost_estimated,
-            latency_sec
-        ])
+
 
 @app.get("/")
 async def read_root():
