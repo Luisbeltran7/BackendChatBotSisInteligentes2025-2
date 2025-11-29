@@ -26,12 +26,6 @@ class RAGService:
             hasher.update(f.read())
         return hasher.hexdigest()
     
-    def _save_file_registry(self):
-        """Guarda registro de archivos indexados"""
-        import json
-        registry_path = self.index_path / "file_registry.json"
-        with open(registry_path, "w") as f:
-            json.dump(self.indexed_files, f)
     
     def _load_file_registry(self):
         """Carga registro de archivos indexados"""
@@ -72,7 +66,7 @@ class RAGService:
                 return
             else:
                 print("Se detectaron cambios, reindexando...")
-        self._save_file_registry()
+
         print(f"Procesando PDFs en {data_folder}...")
         chunks = process_all_pdfs(data_folder)
         docs = prepare_docs_for_chroma(chunks)

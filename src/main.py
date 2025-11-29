@@ -5,11 +5,16 @@ import os
 import time
 from datetime import datetime
 import uuid
+from dotenv import load_dotenv
 from fastapi import FastAPI, Request, UploadFile, File, HTTPException
 from pydantic import BaseModel
 from typing import List
 from pathlib import Path
 import shutil
+
+# Cargar variables de entorno desde .env
+load_dotenv()
+
 from src.models.schemas import (
     QuestionRequest, 
     QuestionResponse, 
@@ -34,7 +39,8 @@ rag_service = RAGService()
 async def lifespan(app: FastAPI):
     # Código que se ejecuta al INICIAR la app
     print("Inicializando RAG service...")
-    data_folder = Path("/app/data")
+    data_folder = Path("data")
+    #data_folder = Path("/app/data")
     if list(data_folder.glob("*.pdf")):
         rag_service.initialize_from_pdfs(data_folder)
         print(f"RAG inicializado con {len(list(data_folder.glob('*.pdf')))} PDFs")
@@ -81,9 +87,8 @@ async def process_question(request: QuestionRequest):
     tokens_used = consumption.get("tokens_used", 0)
     cost_estimated = consumption.get("cost_estimated", 0.0)
     latency_sec = consumption.get("latency_sec", 0.0)
-    log_consumption(session_id=str(uuid.uuid4()), query=request.question, tokens_used=tokens_used, cost_estimated=cost_estimated, latency_sec= round(latency_sec,2))
-    print(f"Consumo - Tokens: {tokens_used}, Costo estimado: ${cost_estimated:.5f}, Latencia: {latency_sec:.2f}s")
-
+    #log_consumption(session_id=str(uuid.uuid4()), query=request.question, tokens_used=tokens_used, cost_estimated=cost_estimated, latency_sec= round(latency_sec,2))
+    
     return QuestionResponse(
         answer=response["answer"],
         model_provider=request.model_provider,
