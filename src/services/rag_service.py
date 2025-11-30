@@ -2,7 +2,6 @@ import hashlib
 from pathlib import Path
 import time
 from src.services.pdf_service import prepare_docs_for_chroma, process_all_pdfs
-from src.services.embedding_service import EmbeddingService
 from groq import Groq
 import os
 from src.services.embedding_service_chroma import EmbeddingServiceChroma
