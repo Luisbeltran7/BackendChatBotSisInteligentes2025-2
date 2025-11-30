@@ -40,11 +40,9 @@ async def lifespan(app: FastAPI):
     print("Inicializando RAG service...")
     data_folder = Path("data")
     #data_folder = Path("/app/data")
-    if list(data_folder.glob("*.pdf")):
-        rag_service.initialize_from_pdfs(data_folder)
-        print(f"RAG inicializado con {len(list(data_folder.glob('*.pdf')))} PDFs")
-    else:
-        print("No se encontraron PDFs en /app/data")
+
+    rag_service.initialize_from_pdfs(data_folder)
+    print(f"RAG inicializado")
     
     yield  # Aquí la app está corriendo
     
