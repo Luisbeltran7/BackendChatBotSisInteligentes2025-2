@@ -11,7 +11,7 @@ python-multipart
 langchain 
 langchain-community 
 #sentence-transformers 
-faiss-cpu
+#faiss-cpu
 groq
 chromadb
 openai
