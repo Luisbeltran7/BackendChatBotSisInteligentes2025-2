@@ -10,7 +10,7 @@ pymupdf
 python-multipart
 langchain 
 langchain-community 
-sentence-transformers 
+#sentence-transformers 
 faiss-cpu
 groq
 chromadb
