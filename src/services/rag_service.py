@@ -41,6 +41,7 @@ class RAGService:
             if collection.count() > 0:
                 print(f"Índice encontrado con {collection.count()} documentos.")
                 self.initialized = True
+                print("RAG Service inicializado con ChromaDB. v2")
                 return True
             return False
         except Exception as e:
@@ -57,15 +58,11 @@ class RAGService:
                 print(f"Cambio detectado en {pdf_file.name}")
                 return True
         # Implementa si quieres detectar cambios, o simplemente fuerza reindexación según lógica propia
-        return True  # Por simplicidad aquí siempre reindexa para evitar problemas
+        return False  # Por simplicidad aquí siempre reindexa para evitar problemas
     
     def initialize_from_pdfs(self, data_folder: Path, force: bool = False):
         if not force and self.try_load_existing_index():
-            if not self.needs_reindex(data_folder):
-                print("El índice está actualizado, no se reindexa.")
-                return
-            else:
-                print("Se detectaron cambios, reindexando...")
+            return
 
         print(f"Procesando PDFs en {data_folder}...")
         chunks = process_all_pdfs(data_folder)
