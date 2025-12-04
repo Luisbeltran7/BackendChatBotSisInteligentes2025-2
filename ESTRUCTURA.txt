@@ -1,0 +1,66 @@
+﻿ chroma_persist/
+   embeddings_precomputed.pkl
+ data/
+   Abeliuk, A., & Gutierrez, C. (s.f.). Historia y evolución de la inteligencia artificial. Universidad de Chile..pdf
+   Alvarez Vega, M., Quiros Mora, L., & Cortes Badilla, M. V. (2020). Inteligencia artificial y aprendizaje automático en medicina. Revista Medica Sinergia, 5(8), e557..pdf
+   ChatGPT como agente inteligente de retroalimentación académica.pdf
+   estructurado_Test Turing.pdf
+   Guzman-Brand, V. A., & Gelvez-Garcia, L. E. (2024). La ética y la responsabilidad en la implementación de la inteligencia artificial revisión sistemática. Revista Ingenieria, Mat.pdf
+   Herrando Moraira, A. (2024). Large Language Models (LLMs) para calidad y estandarización de datos..pdf
+   Herrando Moraira, A. (2024). Large Language Models (LLMs) para calidad y estandarización de datos2..pdf
+   Martín Ortiz Domínguez (2025). Redes neuronales artificiales. Ingenio y Conciencia, 12(23), 38-44..pdf
+   Milagros rocio, Menacho angeles (2024). inteligencia artificial como herramienta en el aprendizaje autonomo de los estudiantes de educacion superior..pdf
+   Moreno Espinosa, P., Abdulsalam Alsarayreh, R. A., & Figuereo-Benitez, J. C. (2024). El Big Data y la inteligencia artificial como soluciones a la desinformacion. Doxa Comunicaci.pdf
+   Perez-Ugena, M. (2024). La inteligencia artificial definición, regulación y riesgos para los derechos fundamentales. Estudios de Deusto, Revista de Derecho Publico, 721, 307-337..pdf
+   Universidad de Caldas – Consejo Superior. (2024). Acuerdo No. 33.pdf
+   Universidad de Caldas – Consejo Superior. (2024). Acuerdo No. 33_ Por el cual se crea la Facultad de Inteligencia Artificial. Universidad de Caldas..pdf
+   Universidad de Caldas – Consejo Superior. (2024). Acuerdo No. 56.pdf
+   Universidad de Caldas – Consejo Superior. (2024). Acuerdo No. 56_ Por el cual se crea el programa de Ingeniería en Inteligencia Artificial. Universidad de Caldas..pdf
+   Universidad de Caldas. (2020). Historia institucional de la Universidad de Caldas. Editorial institucional..pdf
+   Universidad de Caldas. (2025). Programa de Ingeniería en Inteligencia Artificial.pdf
+   Universidad de Caldas. (2025). Programa de Ingeniería en Inteligencia Artificial_ Documento descriptivo oficial. Facultad de Inteligencia Artificial e Ingenierías.pdf
+   Xavier Giro, Juana  Sancho (2022). Inteligencia Artificial en la  educacion Big data, cajas negras y solucionismo tecnologico.pdf
+ docs/
+ logs/
+   consumo_logs.csv
+ metricas y evaluacion/
+   preguntasGold.py
+ scripts/
+   datasets/
+     corpuspdfestructuradov2/
+     corpuspdfs/
+   contadorNo.py
+   pdf_processing.py
+   preparar_corpus.py
+ src/
+   logs/
+   models/
+     schemas.py
+     __init__.py
+   services/
+     embedding_service.py
+     embedding_service_chroma copy.py
+     embedding_service_chroma.py
+     modelClientFactory.py
+     pdf_service copy.py
+     pdf_service.py
+     rag_service copy.py
+     rag_service.py
+   main.py
+   __init__.py
+ tests/
+ vector_store/
+   chunks.pkl
+   file_registry.json
+   index.faiss
+ .env
+ .env.example
+ docker-compose.yml
+ Dockerfile
+ ESTRUCTURA.txt
+ PreguntasGold.csv
+ preguntas_gold_con_respuestas.csv
+ preguntas_gold_con_respuestas_groq.csv
+ preguntas_gold_con_respuestas_openai.csv
+ README.md
+ requirements.txt
