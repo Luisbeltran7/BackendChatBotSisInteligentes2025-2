@@ -9,7 +9,7 @@ from src.services.modelClientFactory import ModelClientFactory
 
 
 class RAGService:
-    def __init__(self, index_path: Path = Path("/app/vector_store")):
+    def __init__(self, index_path: Path = Path("/vector_store")):
         self.embedding_service = EmbeddingServiceChroma()
         self.initialized = False
         self.index_path = index_path
