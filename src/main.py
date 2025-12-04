@@ -38,7 +38,7 @@ rag_service = RAGService()
 async def lifespan(app: FastAPI):
     # Código que se ejecuta al INICIAR la app
     print("Inicializando RAG service...")
-    data_folder = Path("data")
+    data_folder = Path("data")         #comentar esta fila y descomentar la siguiente para deploy
     #data_folder = Path("/app/data")
 
     rag_service.initialize_from_pdfs(data_folder)
